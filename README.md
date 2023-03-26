@@ -2,7 +2,7 @@
 
 **Description:**
 
-Developed a comprehensive Book Management System using cutting-edge technologies such as Spring, Spring MVC, MyBatis, MySQL, JavaScript, HTML, and CSS. This user-friendly application streamlines the organization, tracking, and maintenance of various books within a library or personal collection.
+A comprehensive Book Management System using cutting-edge technologies such as Spring, Spring MVC, MyBatis, MySQL, JavaScript, HTML, and CSS. This user-friendly application streamlines the organization, tracking, and maintenance of various books within a library or personal collection.
 
 **Key Features:**
 
