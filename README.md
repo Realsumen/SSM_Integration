@@ -1,4 +1,4 @@
-# SSM_Integration-Book Management System
+# **SSM Integration -- Book Management System**
 
 **Description:**
 
