@@ -1,10 +1,10 @@
 # SSM_Integration-Book Management System
 
-**Description:
+**Description:**
 
 Developed a comprehensive Book Management System using cutting-edge technologies such as Spring, Spring MVC, MyBatis, MySQL, JavaScript, HTML, and CSS. This user-friendly application streamlines the organization, tracking, and maintenance of various books within a library or personal collection.
 
-**Key Features:
+**Key Features:**
 
 <p>1. Intuitive User Interface: Employed HTML, CSS, and JavaScript to create an aesthetically appealing, responsive, and easy-to-use interface that enhances the user experience.</p>
 <p>2. Robust Backend Architecture: Leveraged the power of Spring and Spring MVC frameworks to build a scalable, modular, and secure backend, ensuring seamless integration of various components and facilitating smooth application performance.</p>
