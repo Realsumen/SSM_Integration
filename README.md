@@ -11,5 +11,5 @@ Key Features:
 <p>3. Efficient Data Management: Utilized MyBatis as the persistence framework, enabling efficient mapping between object-oriented domain models and relational databases, thereby simplifying data handling and improving overall application performance.</p>
 <p>4. Database Integration: Incorporated MySQL as the database management system to store, organize, and manage essential book data reliably and securely.</p>
 <p>5. Advanced Search Functionality: Implemented a sophisticated search feature that allows users to easily search for books based on various criteria such as title, author, genre, or publication date, enhancing discoverability and user satisfaction.</p>
-Inventory Management: Enabled seamless tracking and updating of book inventory, including additions, deletions, and modifications, ensuring accurate and up-to-date information.</p>
-<p>6. User Authentication and Authorization: Implemented a secure authentication and authorization system, safeguarding sensitive user information and restricting access based on user roles.</p>
+<p>6. Inventory Management: Enabled seamless tracking and updating of book inventory, including additions, deletions, and modifications, ensuring accurate and up-to-date information.</p>
+<p>7. User Authentication and Authorization: Implemented a secure authentication and authorization system, safeguarding sensitive user information and restricting access based on user roles.</p>
